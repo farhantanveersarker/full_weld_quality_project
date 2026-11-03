@@ -67,3 +67,7 @@ from ultralytics import YOLO
 model = YOLO("models/best_model.pt")
 results = model.predict("dataset/weld-test/images", save=True)
 ```
+
+## Author
+
+[farhantanveersarker](https://github.com/farhantanveersarker)
