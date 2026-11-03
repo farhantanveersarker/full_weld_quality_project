@@ -1,0 +1,14 @@
+train: /home/psyduck/Desktop/weld-quality-btech-project/weld-train_smoke/images
+val: /home/psyduck/Desktop/weld-quality-btech-project/weld-validation_smoke/images
+test: /home/psyduck/Desktop/weld-quality-btech-project/weld-test_smoke/images
+nc: 9
+names:
+- Burn_through
+- Crack
+- Excess_Reinforcement
+- Good_Weld
+- Incomplete_Fusion
+- Overlap
+- Porosity
+- Spatter
+- Undercut

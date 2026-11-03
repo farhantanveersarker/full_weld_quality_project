@@ -1,0 +1,9 @@
+Burn_through
+Crack
+Excess_Reinforcement
+Good_Weld
+Incomplete_Fusion
+Overlap
+Porosity
+Spatter
+Undercut

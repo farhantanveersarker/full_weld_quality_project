@@ -1,0 +1,45 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Burn_through"
+    },
+    {
+      "id": 1,
+      "name": "Crack"
+    },
+    {
+      "id": 2,
+      "name": "Excess_Reinforcement"
+    },
+    {
+      "id": 3,
+      "name": "Good_Weld"
+    },
+    {
+      "id": 4,
+      "name": "Incomplete_Fusion"
+    },
+    {
+      "id": 5,
+      "name": "Overlap"
+    },
+    {
+      "id": 6,
+      "name": "Porosity"
+    },
+    {
+      "id": 7,
+      "name": "Spatter"
+    },
+    {
+      "id": 8,
+      "name": "Undercut"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
