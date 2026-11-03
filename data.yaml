@@ -1,6 +1,6 @@
-train: /home/psyduck/Desktop/weld-quality-btech-project/weld-train_smoke/images
-val: /home/psyduck/Desktop/weld-quality-btech-project/weld-validation_smoke/images
-test: /home/psyduck/Desktop/weld-quality-btech-project/weld-test_smoke/images
+train: dataset/weld-train/images
+val: dataset/weld-validation/images
+test: dataset/weld-test/images
 nc: 9
 names:
 - Burn_through
